@@ -12,8 +12,9 @@ details of converting my Google Chromebook Pixel 2015 to run Linux
 4. things not right
    - key mapping
    - on wake up black box on cursor (does go away after moving mouse
-5. 'sudo apk add git'
-6. 'sudo apk add flatpak'
-7. 'sudo flatpak install flathub com.vscodium.codium'
-8. 'sudo apk add docker'
-9. 
+5. as root 'apk add git'
+6. as root 'apk add flatpak'
+8. as root 'flatpak install flathub com.vscodium.codium'
+9. as root 'apk add docker'
+10. as root 'apk add udisks2 udisks2-doc
+11. 
