@@ -17,4 +17,5 @@ details of converting my Google Chromebook Pixel 2015 to run Linux
 8. as root 'flatpak install flathub com.vscodium.codium'
 9. as root 'apk add docker'
 10. as root 'apk add udisks2 udisks2-doc
-11. 
+11. add a theme (https://b00merang.weebly.com/)
+12. 
