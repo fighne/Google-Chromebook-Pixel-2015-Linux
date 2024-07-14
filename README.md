@@ -19,3 +19,5 @@ details of converting my Google Chromebook Pixel 2015 to run Linux
 10. as root 'apk add udisks2 udisks2-doc
 11. add a theme (https://b00merang.weebly.com/)
 12. 
+
+Sold Chromebook Pixel. 
